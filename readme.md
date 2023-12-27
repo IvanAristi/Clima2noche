@@ -46,6 +46,9 @@ npm install
 1a
 npm install express cors node-fetch
 
+luego ejecuta npm start
+
+
 ahora ingresa a tu html y con serverlive ejecuta la Aplicacion. Ahora podras visualizar el estado del tiempo desde tu navegador
 
 
